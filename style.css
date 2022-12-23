@@ -1,0 +1,30 @@
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+}
+
+.favorite-icon {
+    color: red;
+}
+
+.characteristics {
+    list-style-type: none;
+    padding: 0;
+}
+
+.card img {
+    height: 200px;
+}
+
+.custom-textarea {
+    resize: none;
+}
+
+.card {
+    height: 390px;
+}
+
+.col {
+    margin-top: 10px;
+}
